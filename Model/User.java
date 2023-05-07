@@ -1,4 +1,4 @@
-package com.Shrishti.EcommerceApplication.Model;
+package com.Harsh.EcommerceApplication.Model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
